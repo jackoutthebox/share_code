@@ -1,0 +1,3 @@
+graft share_code
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  share_code/jupy *
